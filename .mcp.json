@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "clipready": {
+      "type": "http",
+      "url": "https://clipready.reebuilds.org/mcp/public"
+    }
+  }
+}

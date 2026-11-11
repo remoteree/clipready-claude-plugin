@@ -1,0 +1,15 @@
+{
+  "name": "clipready",
+  "description": "ClipReady for Claude: plan short talking-head videos in chat and send them to the ClipReady iPhone app.",
+  "owner": {
+    "name": "Md Reshad Bin Harun",
+    "email": "support@reebuilds.org"
+  },
+  "plugins": [
+    {
+      "name": "clipready",
+      "source": "./",
+      "description": "Turn an idea or research into a recording plan and send it to the ClipReady iPhone app."
+    }
+  ]
+}

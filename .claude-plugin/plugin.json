@@ -1,0 +1,23 @@
+{
+  "name": "clipready",
+  "displayName": "ClipReady",
+  "version": "1.0.0",
+  "description": "Turn an idea or research into a recording plan (script, hooks, beats, sources) and send it to the ClipReady iPhone app, where you record it.",
+  "author": {
+    "name": "Md Reshad Bin Harun",
+    "email": "support@reebuilds.org",
+    "url": "https://clipready.reebuilds.org/support"
+  },
+  "homepage": "https://clipready.reebuilds.org/support",
+  "repository": "https://github.com/remoteree/clipready-claude-plugin",
+  "license": "LicenseRef-ClipReady-Plugin",
+  "keywords": [
+    "video",
+    "creator",
+    "script",
+    "talking head",
+    "reels"
+  ],
+  "privacyPolicyUrl": "https://clipready.reebuilds.org/privacy",
+  "icon": "./.claude-plugin/icon.png"
+}
